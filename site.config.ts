@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'xLikeWATCHDOG',
 
   // open graph metadata (optional)
-  description: '22 Loves Blog',
+  description: '22 Loves Blog Website',
 
   // social usernames (optional)
   // twitter: '',
