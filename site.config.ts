@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'xLikeWATCHDOG',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '22 Loves Blog',
 
   // social usernames (optional)
-  twitter: '',
+  // twitter: '',
   github: 'xLikeWATCHDOG',
-  linkedin: '',
+  // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
